@@ -1,0 +1,30 @@
+div#field {
+    width: 300px;
+    border: 1px solid black;
+    padding: 0;
+    cursor: pointer;
+}
+.min-field {
+    height: 100px;
+    border: 1px solid black;
+    font-size: 50px;
+    text-align: center;
+    line-height: 80px;
+}
+
+#message {
+
+}
+
+#score {
+
+}
+
+.center{
+    text-align: center;
+    font-size: 35px;
+}
+#btn {
+width: 300px;
+}
+
